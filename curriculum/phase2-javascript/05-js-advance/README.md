@@ -372,4 +372,4 @@ git push origin main
 | ------------ | ------------------- | -------------------------------------------------- |
 | Reynaldi    | Speaker 1 | [@reynaldi-goh](https://github.com/reynaldi-goh)     |
 | Michelle     | Speaker 2 | [@Chelle007](https://github.com/Chelle007)             |
-| Winston    | Speaker 3 | [@yourgithub](https://github.com/yourgithub)       |
+| Winston    | Speaker 3 | [@yourgithub](https://github.com/winstonfaustin)       |
